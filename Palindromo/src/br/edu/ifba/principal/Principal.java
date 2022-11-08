@@ -11,6 +11,7 @@ public class Principal {
 		
 		p.inverte("OVO");
 
+		System.out.println("lucas teste");
 	}
 
 }
