@@ -10,6 +10,8 @@ public class Principal {
 		Pilha p = new Pilha();
 		
 		p.inverte("OVO");
+		
+		System.out.println("Literalmente eu");
 
 	}
 
