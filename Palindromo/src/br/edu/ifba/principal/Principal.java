@@ -1,3 +1,4 @@
+
 package br.edu.ifba.principal;
 
 import br.edu.ifba.pilha.Pilha;
@@ -9,7 +10,7 @@ public class Principal {
 		
 		Pilha p = new Pilha();
 		
-		p.inverte("OVO");
+		p.inverte("muaahahhaahaahah");
 
 	}
 
