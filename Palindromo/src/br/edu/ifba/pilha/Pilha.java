@@ -21,12 +21,20 @@ public class Pilha {
 	}
 	
 	public void verifica(String palavra) {
+		
+		
 		if(palavra.equals(verifica.toString())) {
 			System.out.println("É palindromo");
 		}else {
 			System.out.println("Não é!");
 		}
+		
+
 	}
+	
+
+	
+	
 	
 
 }
